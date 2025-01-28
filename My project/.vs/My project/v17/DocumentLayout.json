@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sasha\\Programming\\Unity\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Sasha\\Programming\\Unity\\My project\\assets\\scripts\\musiccontrollerhorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musiccontrollerhorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\sasha\\programming\\unity\\my project\\assets\\scripts\\musiccontrollervertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musiccontrollervertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Sasha\\Programming\\Unity\\My project\\assets\\scripts\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Sasha\\Programming\\Unity\\My project\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicControllerVertical.cs",
+              "DocumentMoniker": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\MusicControllerVertical.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicControllerVertical.cs",
+              "ToolTip": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\MusicControllerVertical.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicControllerVertical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:46:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicControllerHorizontal.cs",
+              "DocumentMoniker": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\MusicControllerHorizontal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicControllerHorizontal.cs",
+              "ToolTip": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\MusicControllerHorizontal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicControllerHorizontal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:41:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundEffect.cs",
+              "DocumentMoniker": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\SoundEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundEffect.cs",
+              "ToolTip": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\SoundEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:14:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Sasha\\Programming\\Unity\\My project\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwG0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:13:04.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
